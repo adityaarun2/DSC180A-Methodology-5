@@ -6,7 +6,7 @@
 
 **Section and Mentor:**
 [A03]  
-Mentor: [Prof Rob Knight]  
+Mentor: Prof. Rob Knight
 
 ---
 
